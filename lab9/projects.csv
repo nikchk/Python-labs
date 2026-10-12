@@ -1,0 +1,4 @@
+project_id,project_name,start_date,end_date,budget,required_skills,team_size
+P101,E-commerce Platform,2023-01-01,2024-01-01,150000,"Python (Advanced); React (Intermediate); AWS (Intermediate)",3
+P102,AI Model for Banking,2023-03-15,2023-12-15,250000,"Python (Advanced); TensorFlow (Advanced); SQL (Advanced)",3
+P103,Mobile App "Nova",2023-05-01,2024-03-01,120000,"Swift (Advanced); Kotlin (Advanced)",1
