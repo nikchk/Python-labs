@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,birth_date,hire_date,previous_experience_years,position,level,department,salary,last_year_bonus,current_project_id,skills
+1,Іван,Петренко,1990-05-15,2018-03-01,2,Software Engineer,Senior,Web,3200,500,P101,"Python (Advanced); Django (Advanced); SQL (Intermediate)"
+2,Марія,Коваль,1995-11-20,2020-07-10,1,QA Engineer,Middle,QA,1800,200,P101,"Selenium (Intermediate); SQL (Beginner)"
+3,Олег,Сидоренко,1992-02-01,2019-01-15,3,Data Scientist,Senior,AI,4000,600,P102,"Python (Advanced); Pandas (Advanced); TensorFlow (Intermediate)"
+4,Анна,Лисенко,1998-08-30,2022-06-01,0,Frontend Developer,Junior,Web,1200,0,P101,"JavaScript (Intermediate); React (Intermediate)"
+5,Петро,Іваненко,1988-12-12,2017-05-20,4,Project Manager,Lead,Management,3500,700,P102,"Scrum (Advanced); JIRA (Advanced)"
+6,Оксана,Мельник,1997-04-10,2023-01-10,1,Software Engineer,Junior,Mobile,1100,0,P103,"Swift (Beginner); Kotlin (Beginner)"
+7,Тарас,Шевченко,1993-09-01,2021-02-15,2,DevOps Engineer,Middle,Infrastructure,2800,350,P102,"AWS (Intermediate); Docker (Advanced); Python (Intermediate)"
