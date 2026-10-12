@@ -1,0 +1,9 @@
+read>a;
+read>eps;
+x=a;
+while [(x-a/x)*(x-a/x)-4*eps**2 >0]:
+{
+    x=0.5*(x+a/x);
+}
+    
+write>x;
