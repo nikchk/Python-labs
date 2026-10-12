@@ -1,0 +1,16 @@
+READ a
+READ eps
+COPY a x
+DIV a x t1
+SUB x t1 t2
+DIV a x t3
+SUB x t3 t4
+MUL t2 t4 t5
+MUL 4 eps t6
+MUL t5 t6 t7
+GOTOIFNOT t7 16
+DIV a x t1
+ADD x t1 t2
+MUL 0.5 t2 x
+GOTO 4
+WRITE x
